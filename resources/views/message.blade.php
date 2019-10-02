@@ -7,7 +7,7 @@
 		</div>
 	@endforeach
 @endif
-
+// @endif
 @if(session('success'))
 	<div class="alert alert-success alert-dismissible fade show" role="alert" style="text-align: center; width: 300px; float: right; margin-right: 122px; margin-top: 20px;">
 	  	  <strong>{{session('success')}}</strong>
