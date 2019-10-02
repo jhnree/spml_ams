@@ -18,7 +18,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 </head>
 <body class="background1">
-
+    // @csrf
    <div class="container">
         <div class="row">
             <div class="card1  col-md-12 col-sm-12 col-xs-12">
